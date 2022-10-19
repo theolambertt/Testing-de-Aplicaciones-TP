@@ -2,11 +2,11 @@
 
 ## Equipo Galaruca
 
-### Integranstes:
--Galica Moreno Nicolás
--Lambert Theo
--Ruzak Tomás
--Castiñeira Tomás
+### Integrantes:
+- Galica Moreno Nicolás
+- Lambert Theo
+- Ruzak Tomás
+- Castiñeira Tomás
 
 ### Profesor
--Martinez, Franco
+- Martinez, Franco
