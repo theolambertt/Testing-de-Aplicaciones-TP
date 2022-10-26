@@ -8,5 +8,3 @@
 - Ruzak Tomás
 - Castiñeira Tomás
 
-### Profesor
-- Martinez, Franco
