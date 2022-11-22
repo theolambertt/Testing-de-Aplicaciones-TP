@@ -1,1 +1,18 @@
+1a) Lo que nosotros opinamos es que si la cantidad de casos de pruebas que nosotros hicimos generan la suficiente seguridad como para cumplir con los criterios de acpetcaion dados ya sea poder crear una cuenta, poder ingresar a la pagina con ella, poder estar en el menu, poder agregar cosas al carro y tambien hacer modificaciones sobre nuestra cuenta creada.
+Aunque no sabemos todavia que esto genere el 100% de la seguridad ya que los casos pueden ir cambiando mediante pasa el desarollo del trabajo.
 
+
+
+1b) No, no tuvimos que asumir como se iba a comportar la aplicacion.
+
+
+
+1c) Nosotros no tuvimos incovenientes al momento de identificar algo que nos haya impedido hacer los casos de prueba, ya que nuestra opinion habian sido brindados de un principio de todos los datos necesarios y claros para el desarrollo de estos.
+
+
+
+2) Al momento de crear casos de prueba en la historia de usuario de creacion de usuario, se nos complico un poco ya que no sabiamos muy bien si los datos que estabamos ingresando eran correctos y no necesitaban de algun requisito como era el de la creacion de nombre de usuario y contraseña ya que no estaba muy clara la instruccion.
+
+
+
+La mas clara y sencilla para nosotros fue la historia de usuario de ingresar a la pagina ya que los pasos y requerimientos eran sencillos y faciles de entender y sin mucha complejidad.
