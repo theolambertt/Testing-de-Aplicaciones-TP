@@ -1,1 +1,21 @@
+TC-01 (A) El usuario debe poder crear su cuenta si o si por lo que este caso de prueba fue elegido y es indispensable.
+
+
+TC-01 (B) Este caso de prueba es tambien indispensable ya que el usuario tratando de crear la cuenta debe de saber si los datos que esta ingresando son correctos y validos y en caso contrario debe poder cambiarlos.
+
+
+TC-02 (A) Este caso de prueba es el encargado de fijarse que el usuario pueda ingresar sesion 
+
+
+TC-02 (B) Este sirve para que el usuario ingrese correctamente el mail y contraseña y que no lo deje poner datos invalidos ya que no lo dejaria iniciar sesion.
+
+
+TC-03 Este caso de prueba es necesario ya que el usuario deberia de poder cambiar los datos de su cuenta cuando quiera, siempre respentado los requisitos.
+
+
+TC-04 Sin este caso de prueba el usuario no podria agregar productos al carrito de compras y comprarlos.
+
+TC-05 Sin este caso de prueba ,que es el mas importante, el usuario no podria acceder a todas las funciones de la pagina mencionadas anteriormente.
+
+
 
